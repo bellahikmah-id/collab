@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://collab-web.vercel.app/}">
+    <a href="https://https://collab-web.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -85,5 +85,5 @@ $ npm start
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/bellahikmah-id})
+- GitHub [@bellahikmah-id](https://github.com/bellahikmah-id)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
